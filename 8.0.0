@@ -1,0 +1,43 @@
+Collecting fastai==1.0.51
+  Downloading fastai-1.0.51-py3-none-any.whl (214 kB)
+     ------------------------------------ 214.0/214.0 KB 149.8 kB/s eta 0:00:00
+Collecting wandb
+  Using cached wandb-0.13.5-py2.py3-none-any.whl (1.9 MB)
+Collecting tensorboardX==1.6
+  Downloading tensorboardX-1.6-py2.py3-none-any.whl (129 kB)
+     ------------------------------------ 129.4/129.4 KB 173.4 kB/s eta 0:00:00
+Collecting ffmpeg-python
+  Using cached ffmpeg_python-0.2.0-py3-none-any.whl (25 kB)
+Collecting youtube-dl
+  Downloading youtube_dl-2021.12.17-py2.py3-none-any.whl (1.9 MB)
+     ---------------------------------------- 1.9/1.9 MB 98.4 kB/s eta 0:00:00
+Collecting jupyterlab
+  Using cached jupyterlab-3.5.0-py3-none-any.whl (8.8 MB)
+Requirement already satisfied: opencv-python in c:\users\jayaprakash\anaconda3\envs\reinforcement_learning\lib\site-packages (4.5.5.62)
+Requirement already satisfied: pillow in c:\users\jayaprakash\anaconda3\envs\reinforcement_learning\lib\site-packages (9.1.0)
+Requirement already satisfied: pandas in c:\users\jayaprakash\anaconda3\envs\reinforcement_learning\lib\site-packages (from fastai==1.0.51) (1.4.2)
+Requirement already satisfied: torch>=1.0.0 in c:\users\jayaprakash\anaconda3\envs\reinforcement_learning\lib\site-packages (from fastai==1.0.51) (1.13.0)
+Requirement already satisfied: fastprogress>=0.1.19 in c:\users\jayaprakash\anaconda3\envs\reinforcement_learning\lib\site-packages (from fastai==1.0.51) (1.0.3)
+Requirement already satisfied: scipy in c:\users\jayaprakash\anaconda3\envs\reinforcement_learning\lib\site-packages (from fastai==1.0.51) (1.8.0)
+Collecting typing
+  Downloading typing-3.7.4.3.tar.gz (78 kB)
+     -------------------------------------- 78.6/78.6 KB 292.1 kB/s eta 0:00:00
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Requirement already satisfied: requests in c:\users\jayaprakash\anaconda3\envs\reinforcement_learning\lib\site-packages (from fastai==1.0.51) (2.27.1)
+Requirement already satisfied: beautifulsoup4 in c:\users\jayaprakash\anaconda3\envs\reinforcement_learning\lib\site-packages (from fastai==1.0.51) (4.11.1)
+Requirement already satisfied: packaging in c:\users\jayaprakash\anaconda3\envs\reinforcement_learning\lib\site-packages (from fastai==1.0.51) (21.3)
+Requirement already satisfied: torchvision in c:\users\jayaprakash\appdata\roaming\python\python38\site-packages (from fastai==1.0.51) (0.14.0)
+Requirement already satisfied: numpy>=1.15 in c:\users\jayaprakash\anaconda3\envs\reinforcement_learning\lib\site-packages (from fastai==1.0.51) (1.22.3)
+Collecting nvidia-ml-py3
+  Downloading nvidia-ml-py3-7.352.0.tar.gz (19 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Requirement already satisfied: matplotlib in c:\users\jayaprakash\anaconda3\envs\reinforcement_learning\lib\site-packages (from fastai==1.0.51) (3.5.2)
+Requirement already satisfied: pyyaml in c:\users\jayaprakash\anaconda3\envs\reinforcement_learning\lib\site-packages (from fastai==1.0.51) (6.0)
+Collecting bottleneck
+  Downloading Bottleneck-1.3.5-cp38-cp38-win_amd64.whl (109 kB)
+     ------------------------------------- 109.8/109.8 KB 59.6 kB/s eta 0:00:00
+Collecting spacy>=2.0.18
+  Downloading spacy-3.4.3-cp38-cp38-win_amd64.whl (12.2 MB)
+     ---------                               3.0/12.2 MB 116.6 kB/s eta 0:01:20

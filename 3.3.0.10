@@ -1,0 +1,2 @@
+Requirement already satisfied: opencv-python in c:\users\jayaprakash\anaconda3\envs\reinforcement_learning\lib\site-packages (4.5.5.62)
+Requirement already satisfied: numpy>=1.17.3 in c:\users\jayaprakash\anaconda3\envs\reinforcement_learning\lib\site-packages (from opencv-python) (1.22.3)
